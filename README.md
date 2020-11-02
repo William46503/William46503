@@ -1,6 +1,6 @@
 ### Hva Skjer'a👋
 
-[![by: William]()]
+![By: William](https://user-images.githubusercontent.com/52475057/97868871-ce908180-1d53-11eb-9675-515433a64667.png)
 
 I'm **William**, from Norway. now living in Tokyo.
 
