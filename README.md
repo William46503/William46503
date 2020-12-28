@@ -14,7 +14,7 @@ Been learning fullstack development & Game development to create fun stuffs!
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"/></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"/></code>
