@@ -19,7 +19,10 @@ Been learning fullstack development & Game development to create fun stuffs!
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"/></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-plain-wordmark.svg"/></code>
+<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/dart/dart-plain-wordmark.svg"/></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain-wordmark.svg"/></code>
+
 
 ### Github statistic
 
