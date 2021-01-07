@@ -26,4 +26,4 @@ Been learning fullstack development & Game development to create fun stuffs!
 ### Github statistic
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William46503&layout=compact)\
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=William46503&show_icons=true&count_private=true?)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=William46503&theme=merko&show_icons=true"/>
