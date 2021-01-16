@@ -6,24 +6,36 @@ I'm **William**, from Norway
 
 Been learning fullstack development & Game development to create fun stuffs!
 
-### Languages and Tools
-
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-plain.svg"/></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/trello/trello-plain-wordmark.svg"/></code>
-
-
 ### Github statistic
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William46503&layout=compact)\
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=William46503&theme=merko&show_icons=true"/>
+
+### Languages and Tools
+## OS
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+## Language
+<img align="left" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
+
+## Framework & Library # DB
+<img align="left" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+
+### App I usually use
+
+<img align="left" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+
