@@ -6,11 +6,6 @@ I'm **William**, from Norway
 
 Been learning fullstack development & Game development to create fun stuffs!
 
-### Github statistic
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William46503&layout=compact)\
-<img src="https://github-readme-stats.vercel.app/api?username=William46503&theme=merko&show_icons=true"/>
-
 ### Languages and Tools
 ## OS
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
